@@ -1,4 +1,6 @@
-/* 
+/* Template: Aria - Business HTML Landing Page Template
+   Author: Inovatik
+   Created: Jul 2019
    Description: Master CSS file
 */
 
@@ -1374,7 +1376,7 @@ input[type='checkbox'] {
 	max-width: 90%;
 	margin: 8px;
 	transition: all 0.3s;
-	border-radius: 10px;
+	border-radius: 4px;
 }
 
 .filter .element-item:hover img {
@@ -1404,7 +1406,7 @@ input[type='checkbox'] {
 	right: 0;
 	left: 0;
 	color: #fff;
-	font: 700 1.125rem/1.625rem "Montserrat", sans-serif;
+	font: 600 1.125rem/1.625rem "Montserrat", sans-serif;
 }
 
 
@@ -1987,6 +1989,13 @@ a:hover.back-to-top {
 		opacity: 1;
 		background-color: transparent;
 	}
+
+	/*added by me*/
+
+	/*.filter .element-item .element-item-overlay span { 
+		font: 500 1.125rem/1.625rem "Montserrat", sans-serif;
+	}*/
+
 	/* end of projects */
 
 
