@@ -1404,7 +1404,7 @@ input[type='checkbox'] {
 	right: 0;
 	left: 0;
 	color: #fff;
-	font: 600 1.125rem/1.625rem "Montserrat", sans-serif;
+	font: 700 1.125rem/1.625rem "Montserrat", sans-serif;
 }
 
 
@@ -1975,15 +1975,6 @@ a:hover.back-to-top {
 	/* Projects */
 	.filter .element-item { 
 		width: 25%; 
-		margin: 18%;
-	}
-
-	/*added by me*/
-	.filter .element-item img {
-		border: none;
-		max-width: 50%;
-		transition: all 0.3s;
-		border-radius: 10px;
 	}
 	
 	.filter .element-item .element-item-overlay { 
@@ -1996,15 +1987,6 @@ a:hover.back-to-top {
 		opacity: 1;
 		background-color: transparent;
 	}
-
-	
-
-	/*added by me*/
-
-	/*.filter .element-item .element-item-overlay span { 
-		font: 500 1.125rem/1.625rem "Montserrat", sans-serif;
-	}*/
-
 	/* end of projects */
 
 
